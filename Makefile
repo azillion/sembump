@@ -3,6 +3,7 @@ NAME := sembump
 PKG := github.com/azillion/$(NAME)
 
 CGO_ENABLED := 0
+VERSION :="1.1.2"
 
 # Set any default go build tags.
 BUILDTAGS :=
